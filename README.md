@@ -1,4 +1,4 @@
-# InterviewIQ – AI Powered Technical Interview Simulator
+# 🚀InterviewIQ – AI Powered Technical Interview Simulator
 
 A hybrid **C++/Qt6** desktop application + **Python** AI microservice suite that
 simulates a real software-engineering technical interview: it asks questions,
@@ -9,6 +9,21 @@ This repository is a **starter scaffold**. The architecture, build system,
 database schema, class skeletons, and Python module stubs are all wired up
 and ready to be filled in module by module (see `docs/SPEC.md` for the full
 feature list this scaffold was generated from).
+
+---
+---
+
+## ✨ Features
+
+- 🎯 AI-based technical interview simulation
+- 📷 Real-time face detection and eye-contact analysis
+- 😊 Emotion and confidence analysis
+- 🎤 Speech-to-text processing using Whisper
+- 🤖 LLM-based answer evaluation and feedback
+- 📊 Performance analytics with charts
+- 📄 PDF interview report generation
+- 🗂️ Interview history tracking
+- 🔄 C++ ↔ Python communication using JSON
 
 ---
 
