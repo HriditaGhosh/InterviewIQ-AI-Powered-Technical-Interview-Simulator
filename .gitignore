@@ -1,0 +1,8 @@
+build/
+*.db
+__pycache__/
+*.pyc
+.vscode/
+CMakeFiles/
+CMakeCache.txt
+*.user

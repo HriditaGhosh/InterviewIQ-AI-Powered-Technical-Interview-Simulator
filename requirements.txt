@@ -1,0 +1,8 @@
+# This project's Python dependencies live in python/requirements.txt
+# (kept separate so the AI service can be deployed/updated independently
+# of the C++/Qt application).
+#
+#   cd python
+#   pip install -r requirements.txt --break-system-packages
+#
+# See docs/SETUP.md for full environment setup (Visual Studio, Qt6, Ollama, etc).
