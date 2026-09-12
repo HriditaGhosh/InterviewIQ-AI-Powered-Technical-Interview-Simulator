@@ -28,7 +28,7 @@ feature list this scaffold was generated from).
 ---
 ---
 ## DEMO:
-
+<img width="590" height="819" alt="Screenshot 2026-09-12 170107" src="https://github.com/user-attachments/assets/e9d17af4-298a-4aef-bb70-ffaf2000ddf7" />
 <img width="1919" height="1011" alt="Screenshot 2026-09-12 165313" src="https://github.com/user-attachments/assets/1a3614f9-49e7-4922-8326-77b430f3588c" />
 <img width="1919" height="1018" alt="Screenshot 2026-09-12 165352" src="https://github.com/user-attachments/assets/6b251fbf-d9d9-457a-a5a1-acf52fbc5a75" />
 <img width="1913" height="1013" alt="Screenshot 2026-09-12 165423" src="https://github.com/user-attachments/assets/8c5f8a1a-f7d3-4d1f-8267-eb509459f15d" />
