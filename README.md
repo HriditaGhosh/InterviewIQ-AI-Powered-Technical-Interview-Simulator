@@ -36,6 +36,7 @@ feature list this scaffold was generated from).
 <img width="1919" height="1019" alt="Screenshot 2026-09-12 165507" src="https://github.com/user-attachments/assets/e60f0975-ebe7-4a19-94e7-f83c0b963ae5" />
 <img width="1919" height="1013" alt="Screenshot 2026-09-12 165537" src="https://github.com/user-attachments/assets/6d979a56-fa36-4035-8c81-7e638546f996" />
 <img width="1919" height="1013" alt="Screenshot 2026-09-12 165605" src="https://github.com/user-attachments/assets/5297bd1b-63da-446b-b881-1943aade3a1e" />
+<img width="1914" height="1028" alt="Screenshot 2026-09-12 171522" src="https://github.com/user-attachments/assets/8738524b-700c-47ae-98ef-f9cf0c6b0d07" />
 
 ---
 
