@@ -26,6 +26,18 @@ feature list this scaffold was generated from).
 - 🔄 C++ ↔ Python communication using JSON
 
 ---
+---
+## DEMO:
+
+<img width="1919" height="1011" alt="Screenshot 2026-09-12 165313" src="https://github.com/user-attachments/assets/1a3614f9-49e7-4922-8326-77b430f3588c" />
+<img width="1919" height="1018" alt="Screenshot 2026-09-12 165352" src="https://github.com/user-attachments/assets/6b251fbf-d9d9-457a-a5a1-acf52fbc5a75" />
+<img width="1913" height="1013" alt="Screenshot 2026-09-12 165423" src="https://github.com/user-attachments/assets/8c5f8a1a-f7d3-4d1f-8267-eb509459f15d" />
+<img width="1919" height="1022" alt="Screenshot 2026-09-12 165449" src="https://github.com/user-attachments/assets/060f35a9-ec2a-4e1d-80f8-b89da4c305f0" />
+<img width="1919" height="1019" alt="Screenshot 2026-09-12 165507" src="https://github.com/user-attachments/assets/e60f0975-ebe7-4a19-94e7-f83c0b963ae5" />
+<img width="1919" height="1013" alt="Screenshot 2026-09-12 165537" src="https://github.com/user-attachments/assets/6d979a56-fa36-4035-8c81-7e638546f996" />
+<img width="1919" height="1013" alt="Screenshot 2026-09-12 165605" src="https://github.com/user-attachments/assets/5297bd1b-63da-446b-b881-1943aade3a1e" />
+
+---
 
 ## Architecture
 
